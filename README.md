@@ -1,6 +1,6 @@
 # Javawocky-Bot
 A discord bot created for FRC Team 6336: The Javawockies.
-The bot has several basic functions, that can be accessed using !*commmand*.
+The bot has several basic functions, that can be accessed using !*command*.
 Currently the bot is running from a Raspberry Pi running as Raspian distribution.
 
 Command List:
