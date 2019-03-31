@@ -12,7 +12,7 @@ The tba command takes a team number, and returns a link to that teams Blue allia
 ineligible, it simply returns an error.
 
 !weather:
-Returns the weathe near where the Javawockies shop is located.
+Returns the weather near where the Javawockies shop is located.
 
 !events:
 Returns a list of all current events that the Javawockies are attending, and their dates.
@@ -21,7 +21,7 @@ Returns a list of all current events that the Javawockies are attending, and the
 Returns a list of helpful links, to various websites.
 
 !safety:
-Returns a random saftey quote. 
+Returns a random safety quote. 
 
 !update:
 Reloads the config file for updating some of the commands, such as the !links, !events, !saftey, !weather, and !help.
